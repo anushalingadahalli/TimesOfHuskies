@@ -111,8 +111,4 @@ Anusha Chandrakanth Lingadahalli - (001007696)
 * Open your browser and go to http://localhost:8081/  to see our website up and running
 
 
-[![Times-of-Huskies.png](https://i.postimg.cc/yxJrbrfH/Times-of-Huskies.png)](https://postimg.cc/9whp4158)
-
-
-[Times-of-Huskies.png](https://postimg.cc/9whp4158)
 
