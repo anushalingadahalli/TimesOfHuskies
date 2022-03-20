@@ -68,6 +68,10 @@ Anusha Chandrakanth Lingadahalli - (001007696)
 
 * Used HTTP REST API for searching and retrieving live news articles from all over the web.
 
+[![Times-of-Huskies.png](https://i.postimg.cc/yxJrbrfH/Times-of-Huskies.png)](https://postimg.cc/9whp4158)
+
+
+[Times-of-Huskies.png](https://postimg.cc/9whp4158)
 
 # Steps to Setup and Run the Application:
 -----------------------------------------------------------
